@@ -40,41 +40,40 @@ size: 16:9
 
 # Problem Statement  
 
-In Zanzibar, personal financial management is a challenge:  
-- Tracking spending is time-consuming and manual.  
-- Making informed decisions is difficult due to a lack of tools.  
-- Budgeting is often neglected.  
+### Personal financial awareness is a problem for university students. For many students higher education is the first time they have access to the biggest amount of money in their life. They have 3 to 4 years of college to have good personal finance skill.
 
 ---
 
-# Background  
+# Solution 
 
-- Financial awareness among young adults is growing.  
-- Increased access to devices (smartphones, laptops).  
-- Limited local financial tools that address unique challenges.  
+## Kigombo is a localized financial app that:  
 
----
-
-# Solution/Prototype/Demo  
-
-Kigombo is a localized financial app that:  
-- **Tracks transactions** across devices.  
-- **Supports local currencies** and finance systems.  
-- **Provides offline functionality.**  
+- ## Keeps track of transcations:
+  * In sync across devices.
+  * Accesible from anywhere.
+- ## Personal finance education
 
 <!--
-![bg 100%](assets/kigombo.live_login%20(5).png)  
+![bg right 100%](assets/kigombo.)  
 -->
 
-*Demo available at: [kigombo.vercel.app](https://kigombo.vercel.app)*  
+---
+
+<!-- _class: lead -->
+
+# DEMO
+
+Visit [kigombo.vercel.app](https://kigombo.vercel.app) or scan the QR code below:  
+
+![qr](assets/kigombo-qr.png)
 
 ---
 
 # Target Users  
 
-1. **Young Adults**: Students, fresh graduates.  
-2. **Small Business Owners**: Managing multiple income sources.  
-3. **Freelancers**: Needing tools for financial discipline.  
+- ## Young Adults: Students, fresh graduates.  
+- ## Small Business Owners: Managing multiple income sources.  
+- ## Freelancers: Needing tools for financial discipline.  
 
 ---
 
@@ -108,21 +107,21 @@ Kigombo is a localized financial app that:
 
 # Security  
 
-- End-to-end encryption for user data.  
-- Data stored on a distributed system for scalability and safety.  
-- Regular audits to ensure compliance with privacy laws.  
+- ## End-to-end encryption for user data.  
+- ## Data stored on a distributed system for scalability and safety.  
+- ## Regular audits to ensure compliance with privacy laws.  
 
 ---
 
 # Sustainability  
 
-- **Revenue Model**:  
-  1. Freemium for individuals.  
-  2. Paid licenses for SMBs .  
+- ## Revenue Model:  
+  1. ### Freemium for individuals.  
+  2. ### Paid licenses for SMBs .  
 
-- **Growth Plan**:  
-  - Build partnerships with local banks and MNOs.  
-  - Expand features based on user feedback.  
+- ## Growth Plan:  
+  - ### Build partnerships with local banks and MNOs.  
+  - ### Expand features based on user feedback.  
 
 ---
 
@@ -139,8 +138,4 @@ Kigombo is a localized financial app that:
 
 <!-- _class: lead -->
 
-# Want to Try It Out?  
-
-Visit [kigombo.vercel.app](https://kigombo.vercel.app) or scan the QR code below:  
-
-![qr](assets/kigombo-qr.png)
+# THANK YOU
